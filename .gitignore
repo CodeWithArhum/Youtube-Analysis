@@ -1,0 +1,24 @@
+# Environment and secrets
+.env
+credentials.json
+token.json
+sheets_token.json
+gmail_token.json
+client_secret*.json
+
+# Temporary files
+.tmp/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
